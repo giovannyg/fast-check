@@ -69,7 +69,7 @@
     "ts-node": "^8.2.0",
     "tslint": "^5.16.0",
     "tslint-config-prettier": "^1.18.0",
-    "typescript": "^3.5.1",
+    "typescript": "https://typescript.visualstudio.com/cf7ac146-d525-443c-b23c-0d58337efebc/_apis/build/builds/44156/artifacts?artifactName=tgz&fileId=1E6A72F0C6E099FF6B046F9DBFDBA5D1CF45DD963781CEFBCFDBBDE15FD60F7C02&fileName=/typescript-3.7.0-insiders.20190916.tgz",
     "uglifyjs": "^2.4.11"
   },
   "keywords": [
